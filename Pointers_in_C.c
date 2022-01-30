@@ -7,7 +7,13 @@ void update(int *a,int *b) {
    
     *a = *a + *b;
   
-        *b = abs(*a - (*b + *b)); // Or We Can write *b=abs(*a-(2**b));
+        *b = abs(*a - (*b + *b)); // Or We Can write *b=abs(*a-(2**b)); 
+
+    
+    
+    /*  Note:       abs()  =>      *This function returns the absolute value of an integer. 
+                                   *The absolute value of a number is always positive. 
+                                   *Only integer values are supported in C.                         */
 
    
      
