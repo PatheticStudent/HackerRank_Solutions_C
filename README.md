@@ -1,3 +1,3 @@
 # HackerRank_Solutions_C
-Here I am doing practice for Competitive programming
-And If you have any problems than you can ask me
+Here I am doing practice for Competitive programming.
+\n And If you have any problems than you can ask me.
